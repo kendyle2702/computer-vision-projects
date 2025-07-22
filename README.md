@@ -7,7 +7,7 @@ This repository serves as my personal practice ground to continuously learn and 
 | # | Project Name | Description | Main Technologies | Techniques |
 |---|--------------|-------------|-------------------|------------|
 | 1 | [RGB Color Detection](./detect_rgb/) | Real-time dominant color detection from webcam | OpenCV, NumPy | Color channel analysis, Mean calculation |
-
+| 2 | [Face Detection](./face_detection/) | Real-time face detection using webcam | OpenCV | Haar Cascade Classifier |
 
 ## 🚀 Usage
 
