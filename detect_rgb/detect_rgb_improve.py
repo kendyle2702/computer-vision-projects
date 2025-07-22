@@ -17,10 +17,6 @@ while True:
     
     hsv_image = cv2.cvtColor(roi, cv2.COLOR_BGR2HSV)
     
-    hue_image = hsv_image[:,:,0]
-    
-    hue_mean = np.mean(hue_image)
-    
     h_mean = np.mean(hsv_image[:, :, 0])
     s_mean = np.mean(hsv_image[:, :, 1])
     v_mean = np.mean(hsv_image[:, :, 2])
