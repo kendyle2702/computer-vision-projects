@@ -4,8 +4,7 @@
 
 This project captures video from webcam and determines the dominant color (Red, Green, or Blue) by calculating the mean values of each RGB channel and comparing them.
 
-*[Image will be added here to show testing results]*
-
+![Image](https://github.com/user-attachments/assets/959198ff-eaa0-4618-853a-5e25167658e0)
 ## Technologies
 
 - **OpenCV**: Video capture and image processing
