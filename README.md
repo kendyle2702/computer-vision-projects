@@ -1,30 +1,22 @@
-# 47 Computer Vision Projects
+# Computer Vision Projects
 
-A collection of Computer Vision projects from basic to advanced, including image processing, object detection, and practical applications.
+This repository serves as my personal practice ground to continuously learn and improve my skills in Computer Vision 💪🔥. It includes a collection of projects from basic to advanced, covering image processing, object detection, and practical applications.
 
 ## 📊 Project List
 
-| # | Project Name | Description | Main Technologies | Techniques | Level |
-|---|--------------|-------------|-------------------|------------|-------|
-| 1 | [RGB Color Detection](./detect_rgb/) | Real-time dominant color detection from webcam | OpenCV, NumPy | Color channel analysis, Mean calculation | Beginner |
+| # | Project Name | Description | Main Technologies | Techniques |
+|---|--------------|-------------|-------------------|------------|
+| 1 | [RGB Color Detection](./detect_rgb/) | Real-time dominant color detection from webcam | OpenCV, NumPy | Color channel analysis, Mean calculation |
 
-## 🛠️ Installation
-
-```bash
-pip install opencv-python numpy matplotlib
-```
 
 ## 🚀 Usage
 
-```bash
-cd [project_folder]
-python [main_script].py
-```
+Please visit each individual project folder to see detailed usage instructions and requirements.
 
 ## 📝 Structure
 
 ```
-47_projects/
+computer-vision/
 ├── README.md
 ├── detect_rgb/
 │   ├── README.md
