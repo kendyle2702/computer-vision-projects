@@ -1,27 +1,27 @@
 # 47 Computer Vision Projects
 
-Bộ sưu tập các dự án Computer Vision từ cơ bản đến nâng cao, bao gồm xử lý ảnh, nhận dạng đối tượng và các ứng dụng thực tế.
+A collection of Computer Vision projects from basic to advanced, including image processing, object detection, and practical applications.
 
-## 📊 Danh sách dự án
+## 📊 Project List
 
-| # | Tên dự án | Mô tả | Công nghệ chính | Kỹ thuật | Cấp độ |
-|---|-----------|-------|----------------|----------|--------|
-| 1 | [RGB Color Detection](./detect_rgb/) | Phát hiện màu sắc chủ đạo từ webcam real-time | OpenCV, NumPy | Color channel analysis, Mean calculation | Beginner |
+| # | Project Name | Description | Main Technologies | Techniques | Level |
+|---|--------------|-------------|-------------------|------------|-------|
+| 1 | [RGB Color Detection](./detect_rgb/) | Real-time dominant color detection from webcam | OpenCV, NumPy | Color channel analysis, Mean calculation | Beginner |
 
-## 🛠️ Cài đặt
+## 🛠️ Installation
 
 ```bash
 pip install opencv-python numpy matplotlib
 ```
 
-## 🚀 Sử dụng
+## 🚀 Usage
 
 ```bash
 cd [project_folder]
 python [main_script].py
 ```
 
-## 📝 Cấu trúc
+## 📝 Structure
 
 ```
 47_projects/
@@ -33,4 +33,4 @@ python [main_script].py
 ```
 
 ---
-*Dự án đang được cập nhật liên tục với các project mới.*
+*This project is continuously updated with new projects.*
