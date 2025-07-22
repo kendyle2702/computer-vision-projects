@@ -4,7 +4,7 @@
 
 This project implements real-time face detection using webcam feed. It utilizes OpenCV's Haar Cascade Classifier to detect frontal faces and draws rectangles around detected faces in the video stream.
 
-*[Image will be added here to show testing results]*
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/b5b489b8-cd83-47db-87b9-8539d4d06cb4" />
 
 ## Technologies
 
